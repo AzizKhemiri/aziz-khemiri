@@ -55,7 +55,7 @@ git clone https://github.com/AzizKhemiri/portfolio.git
 ```
 2. Navigate to project directory:
 ```bash
-cd portfolio
+cd aziz-khemiri
 ```
 3. Open with VS Code:
 ```bash
