@@ -22,15 +22,46 @@ A modern and responsive personal portfolio website showcasing my skills, project
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome! Feel free to check the [issues page](https://github.com/AzizKhemiri/portfolio/issues).
+Contributions are always welcome! Here's how you can help:
 
-To contribute to this project:
+### Ways to Contribute
+- Report bugs and issues
+- Suggest new features
+- Improve documentation
+- Submit pull requests
+- Share feedback
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+### Contribution Guidelines
+1. Fork the repository
+2. Create your branch: 
+```bash
+git checkout -b feature/YourFeature
+```
+3. Make your changes
+4. Commit with clear messages:
+```bash
+git commit -m "Add: brief description of changes"
+```
+5. Push to your fork:
+```bash
+git push origin feature/YourFeature
+```
+6. Open a Pull Request
+
+### Development Setup
+1. Clone the repository:
+```bash
+git clone https://github.com/AzizKhemiri/portfolio.git
+```
+2. Navigate to project directory:
+```bash
+cd portfolio
+```
+3. Open with VS Code:
+```bash
+code .
+```
+4. Start local development server using Live Server extension
 
 ## 📝 License
 
