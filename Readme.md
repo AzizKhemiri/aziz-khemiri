@@ -51,7 +51,7 @@ git push origin feature/YourFeature
 ### Development Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/AzizKhemiri/portfolio.git
+git clone https://github.com/AzizKhemiri/aziz-khemiri.git
 ```
 2. Navigate to project directory:
 ```bash
