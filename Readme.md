@@ -18,7 +18,7 @@ A modern and responsive personal portfolio website showcasing my skills, project
 - HTML5
 - CSS3 
 - JavaScript
-- BootStrap
+- Bootstrap
 
 ## 🤝 Contributing
 
